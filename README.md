@@ -27,12 +27,10 @@ Misi kami adalah:
 ## 🛍️ Beli (Fitur Pembelian Produk Ramah Lingkungan)
 - Marketplace Produk Organik: Telusuri produk pertanian organik segar
 - Filter Pencarian Lanjutan: Cari berdasarkan lokasi, jenis produk, sertifikasi
-- Informasi Jejak Karbon: Lihat dampak lingkungan dari pembelian Anda
 - Pembayaran Aman: Transaksi aman dengan berbagai metode pembayaran
 - Program Loyalitas Hijau: Kumpulkan poin untuk aksi ramah lingkungan
-- Koneksi Langsung: Berhubungan langsung dengan petani lokal
-- 
+  
 🛠️ Teknologi
-Frontend:
-Backend:
-Database:
+- Frontend:
+- Backend:
+- Database:
