@@ -23,14 +23,10 @@ Misi kami adalah:
 - Analitik Penjualan: Pantau performa penjualan dengan dashboard analitik
 - Sistem Rating: Tingkatkan kepercayaan dengan ulasan dan penilaian
 - Pengelolaan Pesanan: Kelola pesanan dan pengiriman dengan mudah
-- 
+  
 ## 🛍️ Beli (Fitur Pembelian Produk Ramah Lingkungan)
 - Marketplace Produk Organik: Telusuri produk pertanian organik segar
 - Filter Pencarian Lanjutan: Cari berdasarkan lokasi, jenis produk, sertifikasi
 - Pembayaran Aman: Transaksi aman dengan berbagai metode pembayaran
 - Program Loyalitas Hijau: Kumpulkan poin untuk aksi ramah lingkungan
   
-🛠️ Teknologi
-- Frontend:
-- Backend:
-- Database:
